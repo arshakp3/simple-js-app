@@ -7,3 +7,28 @@ body {
   color: #ffcb05;
   padding: 10px;
 }
+.pk-button {
+  background-color: rgba(0,0,0,0.0);
+  color: #FFFFFF;
+  border:10px solid #FFFFFF;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px 6px;
+  width: 200px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.pk-button:hover {
+  width: 250px;
+  color:#000000;
+  background-color:#FFFFFF;
+  letter-spacing: 2px;
+}
+
+.pokemon-list {
+  list-style-type: none;
+}
