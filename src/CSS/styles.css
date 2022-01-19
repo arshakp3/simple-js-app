@@ -32,20 +32,20 @@ body {
 }
 
 .pokemon-list {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: auto;
+  /* display: grid; */
+  /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  /* grid-template-rows: auto; */
 }
 
 #pkModal {
   color:#000000;
-  margin: auto;
-  display: inline-block;
+  /* margin: auto; */
+  /* display: inline-block; */
   box-sizing: border-box;
-  background: #fff;
+  /* background: #fff; */
   padding: 15px;
-  width: 100%;
-  max-width: 700px; 
+  /* width: 100%; */
+  /* max-width: 700px; */
 }
 
 img {
